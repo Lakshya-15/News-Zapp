@@ -38,6 +38,6 @@ Searching News: Use the search bar to enter keywords and view relevant news arti
 
 ## Contact
 
-For any questions or feedback, please contact
-Name: Lakshya Garg
+For any questions or feedback, please contact <br>
+Name: Lakshya Garg<br>
 Email: garglakshya015@gmail.com
