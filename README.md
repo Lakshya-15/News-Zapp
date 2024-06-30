@@ -26,7 +26,9 @@ To set up this project locally, follow these steps:
    git clone https://github.com/Lakshya-15/News-Zapp.git
    ```
 2. **Navigate to the project directory**:
+   ```bash
    cd News-Zapp
+   ```
 3. Open the index.html file in your preferred browser.
 
 ## Usage
